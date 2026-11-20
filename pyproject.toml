@@ -1,0 +1,17 @@
+[project]
+name = "playstore-upi-analysis"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "google-play-scraper>=1.2.7",
+    "jupyter>=1.1.1",
+    "kaleido>=1.5.2",
+    "langdetect>=1.0.9",
+    "nbconvert>=7.17.2",
+    "nbformat>=5.11.1",
+    "pandas>=3.1.1",
+    "plotly>=7.1.0",
+    "pyarrow>=26.0.1",
+    "scikit-learn>=1.9.1",
+    "streamlit>=1.67.0",
+]
